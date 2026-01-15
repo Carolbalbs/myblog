@@ -2,67 +2,67 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dicidi a te✨! on Didici a Te!</title>
-    <link>http://localhost:1313/pt-br/</link>
+    <link>http://localhost:1313/myblog/pt-br/</link>
     <description>Recent content in Dicidi a te✨! on Didici a Te!</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
     <lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/pt-br/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/myblog/pt-br/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fourth post (excluded from search)</title>
-      <link>http://localhost:1313/pt-br/blog/fourth-post/</link>
+      <link>http://localhost:1313/myblog/pt-br/blog/fourth-post/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pt-br/blog/fourth-post/</guid>
+      <guid>http://localhost:1313/myblog/pt-br/blog/fourth-post/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam finibus libero in felis accumsan, vitae imperdiet metus vehicula. Quisque nec dignissim purus. In id dui porta sapien posuere viverra nec vel nisi. Sed varius tincidunt lectus, quis sagittis felis interdum id. Proin purus odio, ultrices auctor libero convallis, volutpat gravida turpis. Ut commodo metus orci, quis sagittis lectus rhoncus non. Nulla et lectus tortor. Suspendisse quam felis, molestie non odio quis, consequat venenatis orci. Etiam sed turpis sit amet elit scelerisque imperdiet. Sed suscipit felis non nibh suscipit egestas. Nulla sodales libero non rhoncus consequat. Nunc in elit at est cursus congue ut ac velit. Cras luctus libero augue, id semper sapien volutpat ultrices.&lt;/p&gt;</description>
     </item>
     <item>
       <title>third post (exact case)</title>
-      <link>http://localhost:1313/pt-br/blog/third-post/</link>
+      <link>http://localhost:1313/myblog/pt-br/blog/third-post/</link>
       <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pt-br/blog/third-post/</guid>
+      <guid>http://localhost:1313/myblog/pt-br/blog/third-post/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent id scelerisque ligula. Vestibulum eu lorem tortor. Suspendisse tristique ultrices mauris, non maximus lorem faucibus in. Suspendisse sagittis eleifend dapibus. Curabitur dignissim luctus sapien eu consequat. Proin congue dui vel ipsum bibendum varius. Pellentesque cursus nisi metus, egestas eleifend ipsum sollicitudin vitae. Sed vitae erat elementum, semper turpis sed, molestie nulla.&lt;/p&gt;&#xA;&lt;p&gt;Nulla molestie ultrices vehicula. Etiam iaculis, erat a blandit blandit, nulla tellus dapibus ligula, vitae venenatis turpis diam non felis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae arcu in justo iaculis egestas. In imperdiet arcu vitae pharetra commodo. Quisque ut erat eget nisl semper laoreet vitae eget ligula. Mauris bibendum purus nec vulputate faucibus. In luctus sagittis ante, quis laoreet orci bibendum vitae. Nam at odio accumsan, tincidunt eros at, lacinia metus. In et ultricies sapien, a mollis est. Nunc convallis orci eu tristique euismod. Proin vel ullamcorper diam. Quisque et semper orci. Proin pharetra lorem justo, id malesuada erat feugiat sit amet. Praesent bibendum mi at lorem volutpat suscipit. Morbi sed libero elit.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Second post</title>
-      <link>http://localhost:1313/pt-br/blog/second-post/</link>
+      <link>http://localhost:1313/myblog/pt-br/blog/second-post/</link>
       <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pt-br/blog/second-post/</guid>
+      <guid>http://localhost:1313/myblog/pt-br/blog/second-post/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non sollicitudin sapien. Ut porttitor lectus eu tempor ultricies. Sed semper tincidunt nibh pellentesque condimentum. Vivamus dictum sem eu rhoncus semper. Vestibulum convallis congue tincidunt. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Mauris magna urna, egestas sit amet ligula quis, viverra semper arcu. Praesent laoreet nunc vitae nulla posuere facilisis.&lt;/p&gt;&#xA;&lt;p&gt;Nunc eget dignissim ex, sed lobortis leo. Suspendisse mollis posuere tellus, in viverra nunc ullamcorper vitae. Nam vel tempor arcu, in imperdiet odio. Fusce malesuada vehicula odio, in iaculis nulla congue eget. Quisque id odio id nisl facilisis posuere porta sit amet mauris. Curabitur lorem leo, tempus id rhoncus eget, placerat vitae lectus. Morbi eu aliquet enim. Nulla malesuada laoreet sodales.&lt;/p&gt;</description>
     </item>
     <item>
       <title>First post</title>
-      <link>http://localhost:1313/pt-br/blog/first-post/</link>
+      <link>http://localhost:1313/myblog/pt-br/blog/first-post/</link>
       <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pt-br/blog/first-post/</guid>
+      <guid>http://localhost:1313/myblog/pt-br/blog/first-post/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vulputate, ante in luctus congue, leo risus semper justo, vel consequat sapien lectus quis ipsum. In imperdiet urna justo. Nulla vel pellentesque ipsum. Cras congue feugiat dolor ac aliquam. Pellentesque eget dui venenatis, ultrices urna ac, vehicula nibh. Curabitur est lectus, dapibus eu vehicula non, malesuada et dui. Nam enim nulla, egestas et nunc non, elementum aliquet justo. Mauris euismod mauris sapien, eget vestibulum odio dictum sit amet. Morbi nisl elit, placerat at auctor in, finibus ac neque. Curabitur placerat feugiat risus non vestibulum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis cursus est, nec posuere libero.&lt;/p&gt;</description>
     </item>
     <item>
       <title>RAG Project</title>
-      <link>http://localhost:1313/pt-br/projects/project1/</link>
+      <link>http://localhost:1313/myblog/pt-br/projects/project1/</link>
       <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pt-br/projects/project1/</guid>
+      <guid>http://localhost:1313/myblog/pt-br/projects/project1/</guid>
       <description>&lt;p&gt;Vivamus iaculis metus sed magna porta tincidunt. Aliquam molestie eget orci eu elementum. Integer pellentesque dolor sit amet suscipit maximus. Duis consequat, massa vitae volutpat rhoncus, erat augue venenatis velit, a auctor leo nulla nec turpis. Nunc ut libero sapien. Vivamus aliquam ultrices vestibulum. Sed sit amet vestibulum dolor, ut vehicula diam. Sed felis purus, feugiat vitae vulputate quis, sodales vitae dui. Pellentesque volutpat fringilla sapien varius condimentum. Integer odio massa, pharetra at bibendum vitae, aliquam nec erat.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Sample project</title>
-      <link>http://localhost:1313/pt-br/projects/project2/</link>
+      <link>http://localhost:1313/myblog/pt-br/projects/project2/</link>
       <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pt-br/projects/project2/</guid>
+      <guid>http://localhost:1313/myblog/pt-br/projects/project2/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Modal search</title>
-      <link>http://localhost:1313/pt-br/_modals/search/search/</link>
+      <link>http://localhost:1313/myblog/pt-br/_modals/search/search/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pt-br/_modals/search/search/</guid>
+      <guid>http://localhost:1313/myblog/pt-br/_modals/search/search/</guid>
       <description></description>
     </item>
     <item>
       <title>Sobre Nós</title>
-      <link>http://localhost:1313/pt-br/about/</link>
+      <link>http://localhost:1313/myblog/pt-br/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pt-br/about/</guid>
-      <description>&lt;div class=&#34;text-center&#34;&gt;&lt;svg class=&#34;img-fluid w-50&#34;&#xA;        &#xA;        &gt;&#xA;            &lt;use href=&#34;http://localhost:1313/img/logo_var.svg#logo&#34;&gt;&lt;/use&gt;&#xA;        &lt;/svg&gt;&lt;/div&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;div class=&#34;container-fluid  p-0 &#34;&gt;&#xA;        &lt;div class=&#34;row g-4 row-cols-1 row-cols-sm-2 row-cols-md-3&#34;&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;    &#xA;&#xA;&#xA;&#xA;    &#xA;    &lt;div class=&#34;card  h-100 border-0 text-center p-3&#34;&gt;&#xA;    &#xA;    &#xA;    &#xA;    &#xA;    &#xA;&#xA;    &lt;div class=&#34;card-icon mb-1 m-0 text-center&#34;&gt;&#xA;        &#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;!-- &lt;i class=&#34;fab fa-bootstrap fa-4x fa-fw&#34;&gt;&lt;/i&gt; --&gt;&#xA;        &lt;svg class=&#34;svg-inline--fa fab fa-bootstrap fa-4x fa-fw&#34; fill=&#34;currentColor&#34; aria-hidden=&#34;true&#34; role=&#34;img&#34; viewBox=&#34;0 0 576 512&#34;&gt;&lt;use href=&#34;#fab-bootstrap&#34;&gt;&lt;/use&gt;&lt;/svg&gt;&#xA;    &lt;/div&gt;&lt;div class=&#34;card-body p-0 d-flex flex-column&#34; &gt;&#xA;            &#xA;            &lt;div&gt;&#xA;            &#xA;                &lt;p class=&#34;card-title fs-lg-4 fs-5 fw-bold&#34;&gt;Bootstrap framework&#xA;                    &lt;/p&gt;&#xA;            &lt;div class=&#34;card-text&#34;&gt;Build fast, responsive sites with Bootstrap 5. Easily customize your site with the source Sass files.&lt;/div&gt;&lt;/div&gt;&#xA;        &lt;/div&gt;&#xA;        &#xA;    &lt;/div&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;    &#xA;&#xA;&#xA;&#xA;    &#xA;    &lt;div class=&#34;card  h-100 border-0 text-center p-3&#34;&gt;&#xA;    &#xA;    &#xA;    &#xA;    &#xA;    &#xA;&#xA;    &lt;div class=&#34;card-icon mb-1 m-0 text-center&#34;&gt;&#xA;        &#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;!-- &lt;i class=&#34;fas fa-magnifying-glass fa-4x fa-fw&#34;&gt;&lt;/i&gt; --&gt;&#xA;        &lt;svg class=&#34;svg-inline--fa fas fa-magnifying-glass fa-4x fa-fw&#34; fill=&#34;currentColor&#34; aria-hidden=&#34;true&#34; role=&#34;img&#34; viewBox=&#34;0 0 512 512&#34;&gt;&lt;use href=&#34;#fas-magnifying-glass&#34;&gt;&lt;/use&gt;&lt;/svg&gt;&#xA;    &lt;/div&gt;&lt;div class=&#34;card-body p-0 d-flex flex-column&#34; &gt;&#xA;            &#xA;            &lt;div&gt;&#xA;            &#xA;                &lt;p class=&#34;card-title fs-lg-4 fs-5 fw-bold&#34;&gt;Full text search&#xA;                    &lt;/p&gt;</description>
+      <guid>http://localhost:1313/myblog/pt-br/about/</guid>
+      <description>&lt;div class=&#34;text-center&#34;&gt;&lt;svg class=&#34;img-fluid w-50&#34;&#xA;        &#xA;        &gt;&#xA;            &lt;use href=&#34;http://localhost:1313/myblog/img/logo_var.svg#logo&#34;&gt;&lt;/use&gt;&#xA;        &lt;/svg&gt;&lt;/div&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;div class=&#34;container-fluid  p-0 &#34;&gt;&#xA;        &lt;div class=&#34;row g-4 row-cols-1 row-cols-sm-2 row-cols-md-3&#34;&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;    &#xA;&#xA;&#xA;&#xA;    &#xA;    &lt;div class=&#34;card  h-100 border-0 text-center p-3&#34;&gt;&#xA;    &#xA;    &#xA;    &#xA;    &#xA;    &#xA;&#xA;    &lt;div class=&#34;card-icon mb-1 m-0 text-center&#34;&gt;&#xA;        &#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;!-- &lt;i class=&#34;fab fa-bootstrap fa-4x fa-fw&#34;&gt;&lt;/i&gt; --&gt;&#xA;        &lt;svg class=&#34;svg-inline--fa fab fa-bootstrap fa-4x fa-fw&#34; fill=&#34;currentColor&#34; aria-hidden=&#34;true&#34; role=&#34;img&#34; viewBox=&#34;0 0 576 512&#34;&gt;&lt;use href=&#34;#fab-bootstrap&#34;&gt;&lt;/use&gt;&lt;/svg&gt;&#xA;    &lt;/div&gt;&lt;div class=&#34;card-body p-0 d-flex flex-column&#34; &gt;&#xA;            &#xA;            &lt;div&gt;&#xA;            &#xA;                &lt;p class=&#34;card-title fs-lg-4 fs-5 fw-bold&#34;&gt;Bootstrap framework&#xA;                    &lt;/p&gt;&#xA;            &lt;div class=&#34;card-text&#34;&gt;Build fast, responsive sites with Bootstrap 5. Easily customize your site with the source Sass files.&lt;/div&gt;&lt;/div&gt;&#xA;        &lt;/div&gt;&#xA;        &#xA;    &lt;/div&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;    &#xA;&#xA;&#xA;&#xA;    &#xA;    &lt;div class=&#34;card  h-100 border-0 text-center p-3&#34;&gt;&#xA;    &#xA;    &#xA;    &#xA;    &#xA;    &#xA;&#xA;    &lt;div class=&#34;card-icon mb-1 m-0 text-center&#34;&gt;&#xA;        &#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;!-- &lt;i class=&#34;fas fa-magnifying-glass fa-4x fa-fw&#34;&gt;&lt;/i&gt; --&gt;&#xA;        &lt;svg class=&#34;svg-inline--fa fas fa-magnifying-glass fa-4x fa-fw&#34; fill=&#34;currentColor&#34; aria-hidden=&#34;true&#34; role=&#34;img&#34; viewBox=&#34;0 0 512 512&#34;&gt;&lt;use href=&#34;#fas-magnifying-glass&#34;&gt;&lt;/use&gt;&lt;/svg&gt;&#xA;    &lt;/div&gt;&lt;div class=&#34;card-body p-0 d-flex flex-column&#34; &gt;&#xA;            &#xA;            &lt;div&gt;&#xA;            &#xA;                &lt;p class=&#34;card-title fs-lg-4 fs-5 fw-bold&#34;&gt;Full text search&#xA;                    &lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

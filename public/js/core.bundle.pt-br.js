@@ -6592,7 +6592,7 @@ function initIndex() {
       
       {
         id: 0,
-        href: "/pt-br/blog/first-post/",
+        href: "/myblog/pt-br/blog/first-post/",
         title: "First post",
         description: "This is my first blog post.",
         
@@ -6607,7 +6607,7 @@ function initIndex() {
       
       {
         id: 1,
-        href: "/pt-br/_modals/search/search/",
+        href: "/myblog/pt-br/_modals/search/search/",
         title: "Modal search",
         description: "",
         
@@ -6622,7 +6622,7 @@ function initIndex() {
       
       {
         id: 2,
-        href: "/pt-br/projects/project1/",
+        href: "/myblog/pt-br/projects/project1/",
         title: "RAG Project",
         description: "Aplicação de chatbot utilizando Retrivial Agumented Generation.",
         
@@ -6637,7 +6637,7 @@ function initIndex() {
       
       {
         id: 3,
-        href: "/pt-br/projects/project2/",
+        href: "/myblog/pt-br/projects/project2/",
         title: "Sample project",
         description: "A sample project.",
         
@@ -6652,7 +6652,7 @@ function initIndex() {
       
       {
         id: 4,
-        href: "/pt-br/blog/second-post/",
+        href: "/myblog/pt-br/blog/second-post/",
         title: "Second post",
         description: "This is my second blog post.",
         
@@ -6667,7 +6667,7 @@ function initIndex() {
       
       {
         id: 5,
-        href: "/pt-br/about/",
+        href: "/myblog/pt-br/about/",
         title: "Sobre Nós",
         description: "Saiba mais sobre nosso projeto e o tema Hinode.",
         
@@ -6682,7 +6682,7 @@ function initIndex() {
       
       {
         id: 6,
-        href: "/pt-br/blog/third-post/",
+        href: "/myblog/pt-br/blog/third-post/",
         title: "third post (exact case)",
         description: "This is my third blog post.",
         

@@ -2,223 +2,223 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/pt-br/blog/</loc>
+    <loc>http://localhost:1313/myblog/pt-br/blog/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/blog/"
+                href="http://localhost:1313/myblog/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:1313/pt-br/blog/"
+                href="http://localhost:1313/myblog/pt-br/blog/"
                 />
   </url><url>
-    <loc>http://localhost:1313/pt-br/tags/blog/</loc>
+    <loc>http://localhost:1313/myblog/pt-br/tags/blog/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/tags/blog/"
+                href="http://localhost:1313/myblog/tags/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:1313/pt-br/tags/blog/"
+                href="http://localhost:1313/myblog/pt-br/tags/blog/"
                 />
   </url><url>
-    <loc>http://localhost:1313/pt-br/</loc>
+    <loc>http://localhost:1313/myblog/pt-br/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/"
+                href="http://localhost:1313/myblog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:1313/pt-br/"
+                href="http://localhost:1313/myblog/pt-br/"
                 />
   </url><url>
-    <loc>http://localhost:1313/pt-br/blog/fourth-post/</loc>
+    <loc>http://localhost:1313/myblog/pt-br/blog/fourth-post/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/blog/fourth-post/"
+                href="http://localhost:1313/myblog/blog/fourth-post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:1313/pt-br/blog/fourth-post/"
+                href="http://localhost:1313/myblog/pt-br/blog/fourth-post/"
                 />
   </url><url>
-    <loc>http://localhost:1313/pt-br/tags/</loc>
+    <loc>http://localhost:1313/myblog/pt-br/tags/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/tags/"
+                href="http://localhost:1313/myblog/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:1313/pt-br/tags/"
+                href="http://localhost:1313/myblog/pt-br/tags/"
                 />
   </url><url>
-    <loc>http://localhost:1313/pt-br/blog/third-post/</loc>
+    <loc>http://localhost:1313/myblog/pt-br/blog/third-post/</loc>
     <lastmod>2022-12-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/blog/third-post/"
+                href="http://localhost:1313/myblog/blog/third-post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:1313/pt-br/blog/third-post/"
+                href="http://localhost:1313/myblog/pt-br/blog/third-post/"
                 />
   </url><url>
-    <loc>http://localhost:1313/pt-br/blog/second-post/</loc>
+    <loc>http://localhost:1313/myblog/pt-br/blog/second-post/</loc>
     <lastmod>2022-11-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/blog/second-post/"
+                href="http://localhost:1313/myblog/blog/second-post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:1313/pt-br/blog/second-post/"
+                href="http://localhost:1313/myblog/pt-br/blog/second-post/"
                 />
   </url><url>
-    <loc>http://localhost:1313/pt-br/blog/first-post/</loc>
+    <loc>http://localhost:1313/myblog/pt-br/blog/first-post/</loc>
     <lastmod>2022-10-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/blog/first-post/"
+                href="http://localhost:1313/myblog/blog/first-post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:1313/pt-br/blog/first-post/"
+                href="http://localhost:1313/myblog/pt-br/blog/first-post/"
                 />
   </url><url>
-    <loc>http://localhost:1313/pt-br/tags/ml/</loc>
+    <loc>http://localhost:1313/myblog/pt-br/tags/ml/</loc>
     <lastmod>2022-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/pt-br/tags/regress%C3%A3o/</loc>
+    <loc>http://localhost:1313/myblog/pt-br/tags/regress%C3%A3o/</loc>
     <lastmod>2022-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/pt-br/tags/teoria-com-fafora/</loc>
+    <loc>http://localhost:1313/myblog/pt-br/tags/teoria-com-fafora/</loc>
     <lastmod>2022-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/pt-br/tags/chatbot/</loc>
+    <loc>http://localhost:1313/myblog/pt-br/tags/chatbot/</loc>
     <lastmod>2021-07-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/pt-br/tags/css/</loc>
-    <lastmod>2021-07-15T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/tags/css/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="http://localhost:1313/pt-br/tags/css/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/pt-br/tags/html/</loc>
+    <loc>http://localhost:1313/myblog/pt-br/tags/css/</loc>
     <lastmod>2021-07-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/tags/html/"
+                href="http://localhost:1313/myblog/tags/css/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:1313/pt-br/tags/html/"
+                href="http://localhost:1313/myblog/pt-br/tags/css/"
                 />
   </url><url>
-    <loc>http://localhost:1313/pt-br/tags/llm/</loc>
-    <lastmod>2021-07-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/pt-br/projects/</loc>
+    <loc>http://localhost:1313/myblog/pt-br/tags/html/</loc>
     <lastmod>2021-07-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/projects/"
+                href="http://localhost:1313/myblog/tags/html/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:1313/pt-br/projects/"
+                href="http://localhost:1313/myblog/pt-br/tags/html/"
                 />
   </url><url>
-    <loc>http://localhost:1313/pt-br/tags/python/</loc>
+    <loc>http://localhost:1313/myblog/pt-br/tags/llm/</loc>
     <lastmod>2021-07-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/pt-br/tags/rag/</loc>
-    <lastmod>2021-07-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/pt-br/projects/project1/</loc>
+    <loc>http://localhost:1313/myblog/pt-br/projects/</loc>
     <lastmod>2021-07-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/projects/project1/"
+                href="http://localhost:1313/myblog/projects/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:1313/pt-br/projects/project1/"
+                href="http://localhost:1313/myblog/pt-br/projects/"
                 />
   </url><url>
-    <loc>http://localhost:1313/pt-br/projects/project2/</loc>
+    <loc>http://localhost:1313/myblog/pt-br/tags/python/</loc>
+    <lastmod>2021-07-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/myblog/pt-br/tags/rag/</loc>
+    <lastmod>2021-07-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/myblog/pt-br/projects/project1/</loc>
     <lastmod>2021-07-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/projects/project2/"
+                href="http://localhost:1313/myblog/projects/project1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:1313/pt-br/projects/project2/"
+                href="http://localhost:1313/myblog/pt-br/projects/project1/"
                 />
   </url><url>
-    <loc>http://localhost:1313/pt-br/_modals/</loc>
-  </url><url>
-    <loc>http://localhost:1313/pt-br/categories/</loc>
+    <loc>http://localhost:1313/myblog/pt-br/projects/project2/</loc>
+    <lastmod>2021-07-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/categories/"
+                href="http://localhost:1313/myblog/projects/project2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:1313/pt-br/categories/"
+                href="http://localhost:1313/myblog/pt-br/projects/project2/"
                 />
   </url><url>
-    <loc>http://localhost:1313/pt-br/_modals/search/search/</loc>
+    <loc>http://localhost:1313/myblog/pt-br/_modals/</loc>
+  </url><url>
+    <loc>http://localhost:1313/myblog/pt-br/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/myblog/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="http://localhost:1313/myblog/pt-br/categories/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/myblog/pt-br/_modals/search/search/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>http://localhost:1313/pt-br/about/</loc>
+    <loc>http://localhost:1313/myblog/pt-br/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/about/"
+                href="http://localhost:1313/myblog/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:1313/pt-br/about/"
+                href="http://localhost:1313/myblog/pt-br/about/"
                 />
   </url>
 </urlset>

@@ -6592,7 +6592,7 @@ function initIndex() {
       
       {
         id: 0,
-        href: "/projects/project2/",
+        href: "/myblog/projects/project2/",
         title: "Another Project",
         description: "Another project.",
         
@@ -6607,7 +6607,7 @@ function initIndex() {
       
       {
         id: 1,
-        href: "/blog/first-post/",
+        href: "/myblog/blog/first-post/",
         title: "First Post",
         description: "This is my first blog post.",
         
@@ -6622,7 +6622,7 @@ function initIndex() {
       
       {
         id: 2,
-        href: "/projects/project1/",
+        href: "/myblog/projects/project1/",
         title: "Sample Project",
         description: "A sample project.",
         
@@ -6637,7 +6637,7 @@ function initIndex() {
       
       {
         id: 3,
-        href: "/blog/second-post/",
+        href: "/myblog/blog/second-post/",
         title: "Second Post",
         description: "This is my second blog post.",
         
@@ -6652,7 +6652,7 @@ function initIndex() {
       
       {
         id: 4,
-        href: "/blog/third-post/",
+        href: "/myblog/blog/third-post/",
         title: "third post (exact case)",
         description: "This is my third blog post.",
         

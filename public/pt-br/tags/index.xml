@@ -2,80 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Didici a Te!</title>
-    <link>http://localhost:1313/pt-br/tags/</link>
+    <link>http://localhost:1313/myblog/pt-br/tags/</link>
     <description>Recent content in Tags on Didici a Te!</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
     <lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/pt-br/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/myblog/pt-br/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blog</title>
-      <link>http://localhost:1313/pt-br/tags/blog/</link>
+      <link>http://localhost:1313/myblog/pt-br/tags/blog/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pt-br/tags/blog/</guid>
+      <guid>http://localhost:1313/myblog/pt-br/tags/blog/</guid>
       <description></description>
     </item>
     <item>
       <title>ML</title>
-      <link>http://localhost:1313/pt-br/tags/ml/</link>
+      <link>http://localhost:1313/myblog/pt-br/tags/ml/</link>
       <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pt-br/tags/ml/</guid>
+      <guid>http://localhost:1313/myblog/pt-br/tags/ml/</guid>
       <description></description>
     </item>
     <item>
       <title>Regressão</title>
-      <link>http://localhost:1313/pt-br/tags/regress%C3%A3o/</link>
+      <link>http://localhost:1313/myblog/pt-br/tags/regress%C3%A3o/</link>
       <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pt-br/tags/regress%C3%A3o/</guid>
+      <guid>http://localhost:1313/myblog/pt-br/tags/regress%C3%A3o/</guid>
       <description></description>
     </item>
     <item>
       <title>Teoria Com Fafora</title>
-      <link>http://localhost:1313/pt-br/tags/teoria-com-fafora/</link>
+      <link>http://localhost:1313/myblog/pt-br/tags/teoria-com-fafora/</link>
       <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pt-br/tags/teoria-com-fafora/</guid>
+      <guid>http://localhost:1313/myblog/pt-br/tags/teoria-com-fafora/</guid>
       <description></description>
     </item>
     <item>
       <title>Chatbot</title>
-      <link>http://localhost:1313/pt-br/tags/chatbot/</link>
+      <link>http://localhost:1313/myblog/pt-br/tags/chatbot/</link>
       <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pt-br/tags/chatbot/</guid>
+      <guid>http://localhost:1313/myblog/pt-br/tags/chatbot/</guid>
       <description></description>
     </item>
     <item>
       <title>Css</title>
-      <link>http://localhost:1313/pt-br/tags/css/</link>
+      <link>http://localhost:1313/myblog/pt-br/tags/css/</link>
       <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pt-br/tags/css/</guid>
+      <guid>http://localhost:1313/myblog/pt-br/tags/css/</guid>
       <description></description>
     </item>
     <item>
       <title>Html</title>
-      <link>http://localhost:1313/pt-br/tags/html/</link>
+      <link>http://localhost:1313/myblog/pt-br/tags/html/</link>
       <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pt-br/tags/html/</guid>
+      <guid>http://localhost:1313/myblog/pt-br/tags/html/</guid>
       <description></description>
     </item>
     <item>
       <title>LLM</title>
-      <link>http://localhost:1313/pt-br/tags/llm/</link>
+      <link>http://localhost:1313/myblog/pt-br/tags/llm/</link>
       <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pt-br/tags/llm/</guid>
+      <guid>http://localhost:1313/myblog/pt-br/tags/llm/</guid>
       <description></description>
     </item>
     <item>
       <title>Python</title>
-      <link>http://localhost:1313/pt-br/tags/python/</link>
+      <link>http://localhost:1313/myblog/pt-br/tags/python/</link>
       <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pt-br/tags/python/</guid>
+      <guid>http://localhost:1313/myblog/pt-br/tags/python/</guid>
       <description></description>
     </item>
     <item>
       <title>RAG</title>
-      <link>http://localhost:1313/pt-br/tags/rag/</link>
+      <link>http://localhost:1313/myblog/pt-br/tags/rag/</link>
       <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pt-br/tags/rag/</guid>
+      <guid>http://localhost:1313/myblog/pt-br/tags/rag/</guid>
       <description></description>
     </item>
   </channel>

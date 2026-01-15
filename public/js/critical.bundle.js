@@ -119,7 +119,7 @@ function setSessionStorage (key, val, category) {
 /* eslint-disable */(() => {
   'use strict'
 
-  const folder = '/'
+  const folder = '/myblog/'
 
   // Function to get the selected language from local storage
   function getLanguage () {

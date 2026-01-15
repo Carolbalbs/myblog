@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>LLM on Didici a Te!</title>
-    <link>http://localhost:1313/pt-br/tags/llm/</link>
+    <link>http://localhost:1313/myblog/pt-br/tags/llm/</link>
     <description>Recent content in LLM on Didici a Te!</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
     <lastBuildDate>Thu, 15 Jul 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/pt-br/tags/llm/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/myblog/pt-br/tags/llm/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>RAG Project</title>
-      <link>http://localhost:1313/pt-br/projects/project1/</link>
+      <link>http://localhost:1313/myblog/pt-br/projects/project1/</link>
       <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pt-br/projects/project1/</guid>
+      <guid>http://localhost:1313/myblog/pt-br/projects/project1/</guid>
       <description>&lt;p&gt;Vivamus iaculis metus sed magna porta tincidunt. Aliquam molestie eget orci eu elementum. Integer pellentesque dolor sit amet suscipit maximus. Duis consequat, massa vitae volutpat rhoncus, erat augue venenatis velit, a auctor leo nulla nec turpis. Nunc ut libero sapien. Vivamus aliquam ultrices vestibulum. Sed sit amet vestibulum dolor, ut vehicula diam. Sed felis purus, feugiat vitae vulputate quis, sodales vitae dui. Pellentesque volutpat fringilla sapien varius condimentum. Integer odio massa, pharetra at bibendum vitae, aliquam nec erat.&lt;/p&gt;</description>
     </item>
   </channel>
