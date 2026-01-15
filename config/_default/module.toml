@@ -1,0 +1,14 @@
+[[imports]]
+    path = "github.com/gethinode/mod-cookieyes/v2"
+  [[imports]]
+    path = "github.com/gethinode/hinode"
+  [[imports]]
+    path = "github.com/gethinode/mod-bootstrap"
+  [[imports]]
+    path = "github.com/gethinode/mod-csp"
+  [[imports]]
+    path = "github.com/gethinode/mod-flexsearch/v3"
+  [[imports]]
+    path = "github.com/gethinode/mod-fontawesome/v2"
+  [[imports]]
+    path = "github.com/gethinode/mod-google-analytics"

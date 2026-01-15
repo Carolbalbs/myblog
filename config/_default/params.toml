@@ -1,0 +1,123 @@
+[main]
+    separator = "-"
+    enableLanguageSelectionStorage = true
+    canonifyAssetsURLs = false
+    footerBelowFold = false
+    loading = "lazy"
+    breakpoint = "md"
+    titleCase = true
+    [main.padding]
+        x = 4
+        y = 4
+    [main.internalLinks]
+        validate = true
+        pretty = true
+    [main.externalLinks]
+        cue = true
+        tab = true
+    [main.build]
+        transpiler = "libsass"
+
+    [main.colorMode]
+        enabled = true
+        modes = ["light", "dark"]
+        iconLight = "fas sun"
+        iconDark = "fas moon"
+[debugging]
+    showJS = false
+    showSCSS = false
+    purgeHTMLComments = true # prevents a Goldmark warning when processing HTML comments (as used by markdownlint)
+    includeSVGOrigin = true
+
+[navigation]
+    anchor = true
+    logo = "/img/brilhante.png"
+    logo-mode = false
+    logo-align = "center"
+    logo-height = 30
+    color = "body"
+    fixed = true
+    overlay = false
+    overlayMode = "dark"
+    transparent = false
+    horizontal = false
+    offset = "5.7rem"
+    offsetXS = "5.7rem"
+    breadcrumb = true
+    toc = true
+    sidebar = true
+    size = "md"
+    fontsizeCollapsed = 6
+    startLevel = 2
+    endLevel = 3
+    maxNumHeadings = 9
+    [navigation.language]
+        icon = "fa-solid fa-language"
+        inline = false
+    [navigation.padding]
+        x = 4
+        y = 4
+    [navigation.search]
+        enabled = true
+        modal = false
+        icon = "fas magnifying-glass"
+
+[favicon]
+    logo = "img/brilhante.png"
+    sizes = [16, 32, 48]
+
+[sharing]
+    enabled = true
+    sort = "weight"
+    reverse = false
+    webshare = true
+
+[[sharing.providers]]
+    name = "LinkedIn"
+    url = "https://www.linkedin.com/sharing/share-offsite/?url={url}"
+    icon = "fab linkedin"
+    weight = 10
+
+[[sharing.providers]]
+    name = "Twitter"
+    url = "https://twitter.com/home?status={url}"
+    icon = "fab x-twitter"
+    weight = 20
+
+[[sharing.providers]]
+    name = "Facebook"
+    url = "https://www.facebook.com/sharer.php?u={url}"
+    icon = "fab facebook"
+    weight = 30
+
+[[sharing.providers]]
+    name = "WhatsApp"
+    url = "whatsapp://send?text={title}%20{url}"
+    icon = "fab whatsapp"
+    weight = 40
+
+[[sharing.providers]]
+    name = "email"
+    url = "{url}"
+    icon = "fas link"
+    weight = 50
+    clipboard = true
+
+
+[style]
+    primary = "#007bff"
+    secondary = "#6c757d"
+    success = "#198754"
+    info = "#0dcaf0"
+    warning = "#ffc107"
+    danger = "#dc3545"
+    light = "#f8f9fa"
+    dark = "#212529"
+    themeOpacity = "10"
+    darkModeShade = "20%"
+    darkModeTint = "40%"
+    themeFont = "Inter"
+    # themeFontPath = "https://fonts.googleapis.com/css2?family=Inter:wght@200;300;600&display=swap" # external path
+    themeFontPath = "/fonts" # local path
+    fontSizeBase = "1rem"
+    purge = false

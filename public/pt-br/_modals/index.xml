@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>_Modals on Didici a Te!</title>
+    <link>http://localhost:1313/pt-br/_modals/</link>
+    <description>Recent content in _Modals on Didici a Te!</description>
+    <generator>Hugo</generator>
+    <language>pt-br</language>
+    <atom:link href="http://localhost:1313/pt-br/_modals/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Modal search</title>
+      <link>http://localhost:1313/pt-br/_modals/search/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pt-br/_modals/search/search/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

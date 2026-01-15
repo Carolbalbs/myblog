@@ -1,0 +1,30 @@
+baseURL = 'http://localhost:8080/'
+defaultContentLanguage = 'en'
+
+[build]
+  writeStats = true
+
+[languages]
+  [languages.en]
+    languageCode = 'en'
+    languageName = 'English'
+    contentDir = 'content/en'
+    title = 'Didici a Te!'
+    weight = 1
+    [languages.en.params]
+      [languages.en.params.main]
+        description = "This site was built with Hugo and Hinode theme."
+
+  [languages.pt-br]
+    languageCode = 'pt-br'
+    languageName = 'Português (Brasil)'
+    contentDir = 'content/pt-br'
+    title = 'Didici a Te!'
+    weight = 2
+    [languages.pt-br.params]
+      [languages.pt-br.params.main]
+        description = "Este site foi construído com Hugo e o tema Hinode."
+      [languages.pt-br.params.social]
+        title = "Siga-me"
+        caption = "Trabalho com tudo relacionado a código e posto memes de desenvolvedor"
+
