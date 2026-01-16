@@ -1,27 +1,16 @@
 ---
-title: "Sobre Nós"
-description: "Saiba mais sobre nosso projeto e o tema Hinode."
+title: "Sobre Mim"
+description: "Saiba mais sobre mim e os meus projetos..."
 layout: "single"
 ---
 
-{{< image src="/img/logo_var.svg#logo" class="img-fluid w-50" wrapper="text-center" >}}
+{{< persona thumbnail="/img/about.jpg" title="Sobre mim" color="primary" >}}
+  As a content creator you value your independence. You like to take control of your
+  online and offline presence. You want to focus on growing your audience, without
+  limitations.
 
-{{< card-group align="center" class="border-0" padding="3" >}}
-    {{< card title="Bootstrap framework" icon="fab bootstrap" >}}
-        Build fast, responsive sites with Bootstrap 5. Easily customize your site with the source Sass files.
-    {{< /card >}}
-    {{< card title="Full text search" icon="fas magnifying-glass" >}}
-        Search your site with FlexSearch, a full-text search library with zero dependencies.
-    {{< /card >}}
-    {{< card title="Development tools" icon="fas code" >}}
-        Use Node Package Manager to automate the build process and to keep track of dependencies.
-    {{< /card >}}
-{{< /card-group >}}
+  Hinode gives you the tools to publish your blog in the way that you want. You have
+  full ownership and control of your content. That is why content creators choose
+  Hinode.
+{{< /persona >}}
 
-Additional features include:
-
-* Switching between light mode and dark mode
-* Support for multiple languages
-* Reusable Bootstrap components through configurable shortcodes and partials
-* Versioned documentation, including sidebar navigation and version switcher
-* Responsive image handling for multiple screen sizes and resolutions
