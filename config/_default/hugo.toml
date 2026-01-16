@@ -1,4 +1,4 @@
-baseURL = 'https://carolbalbs.github.io/myblog/'
+baseURL = 'https://carolbalbs.github.io/'
 defaultContentLanguage = 'en'
 
 [build]
