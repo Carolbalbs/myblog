@@ -1,6 +1,6 @@
 ---
 title: "About Me"
-description: "Learn more about me and my jouney..."
+description: "Learn more about me and my journey..."
 layout: "single"
 ---
 
