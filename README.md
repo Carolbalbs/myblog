@@ -33,8 +33,6 @@
 
 ## About
 
-![Logo](https://raw.githubusercontent.com/gethinode/hinode/main/static/img/logo.png)
-
 Hinode is a clean blog theme for [Hugo][hugo], an open-source static site generator. Use this template if you would like to **take advantage of automation features**, provided by npm and GitHub actions. Visit the [docs][docs] for an alternative installation that uses Hugo only.
 
 
