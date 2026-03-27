@@ -1,9 +1,9 @@
 ---
-author: Hugo Authors
-title: Sample project
+author: Ana Carolina Balbino
+title: Análise Preditiva de Tendências de Mercado
 date: 2021-07-15
-description: A sample project.
-tags: ["html", "css"]
+description: Análise preditiva utilizando modelos de aprendizado de maquina para prever tendências de mercado. 
+tags: ["AI", "Regression", "Analysis"]
 icon: fab docker
 ---
 

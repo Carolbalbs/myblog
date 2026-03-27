@@ -1,5 +1,6 @@
 [main]
     separator = "-"
+    description = " A blog for share knowlagde width you "
     enableLanguageSelectionStorage = true
     canonifyAssetsURLs = false
     footerBelowFold = false
@@ -67,7 +68,7 @@
     sizes = [16, 32, 48]
 
 [sharing]
-    enabled = true
+    enabled = false
     sort = "weight"
     reverse = false
     webshare = true
