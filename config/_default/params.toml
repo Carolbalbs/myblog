@@ -68,7 +68,8 @@
     sizes = [16, 32, 48]
 
 [sharing]
-    enabled = false
+    enabled = true
+    image = "/img/brilhante.png"
     sort = "weight"
     reverse = false
     webshare = true
