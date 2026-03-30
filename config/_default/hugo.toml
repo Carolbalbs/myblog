@@ -14,6 +14,9 @@ defaultContentLanguage = 'en'
     [languages.en.params]
       [languages.en.params.main]
         description = "This site was built with Hugo and Hinode theme."
+      [languages.en.params.social]
+        title = "Follow me"
+        caption = "The best way to learn is to share what you know! 💡📖💭"
 
   [languages.pt-br]
     languageCode = 'pt-br'
@@ -26,5 +29,5 @@ defaultContentLanguage = 'en'
         description = "Este site foi construído com Hugo e o tema Hinode."
       [languages.pt-br.params.social]
         title = "Siga-me"
-        caption = "Trabalho com tudo relacionado a código e posto memes de desenvolvedor"
+        caption = "A melhor forma de aprender é compartilhar o que se sabe!📖💭"
 

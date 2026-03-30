@@ -3,6 +3,7 @@
     description = " A blog for share knowlagde width you "
     enableLanguageSelectionStorage = true
     canonifyAssetsURLs = false
+    endorse = false
     footerBelowFold = false
     loading = "lazy"
     breakpoint = "md"
