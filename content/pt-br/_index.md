@@ -1,5 +1,6 @@
 ---
 title: Dicidi a te✨!
+image:""
 content_blocks:
   - _bookshop_name: hero
     heading:

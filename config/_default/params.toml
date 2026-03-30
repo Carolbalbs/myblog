@@ -74,6 +74,15 @@
     reverse = false
     webshare = true
 
+[schema]
+    [schema.logo]
+        url = "img/brilhante.png"
+    [schema.image]
+        url = "img/brilhante.png"
+
+[opengraph]
+    images = ["img/brilhante.png"]
+
 [[sharing.providers]]
     name = "LinkedIn"
     url = "https://www.linkedin.com/sharing/share-offsite/?url={url}"
